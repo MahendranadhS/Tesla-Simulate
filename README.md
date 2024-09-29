@@ -9,8 +9,8 @@ This project simulates a Tesla-like virtual car dealership where users can explo
 
 ## Features
 - Interactive model customization (exterior and interior)
-- Live previews of selections
-- Virtual navigation through a dealership
+- Live previews of customizations
+- Virtual navigation through a each variants of customization
 
 ## Technologies Used
 - **Programming Language**: Java
